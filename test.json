@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Power Plant Zeta-7",
+    "status": "critical",
+    "message": "Power Grid Disruption"
+  },
+  {
+    "name": "Water Treatment Facility Delta-9",
+    "status": "operational",
+    "message": "All checks OK"
+  },
+  {
+    "name": "Factory Alpha-12",
+    "status": "warning",
+    "message": "<h1>Systems Failure</h1>"
+  }
+]
